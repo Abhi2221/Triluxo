@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "572991933340",
+    "project_id": "trilluxo-app",
+    "storage_bucket": "trilluxo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572991933340:android:39a1bf82eb88d71f405659",
+        "android_client_info": {
+          "package_name": "com.triapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572991933340-2okplvvg4vsdt26f2d2kcq5q6v3du0sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "572991933340-gic7gng43p0s0e1cj6pgqn3ude4dq72i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBIpEs3qeeA0c0H7XcWXD_xgchYldhH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572991933340-gic7gng43p0s0e1cj6pgqn3ude4dq72i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
